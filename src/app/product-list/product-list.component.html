@@ -7,14 +7,17 @@
 			{{ product.name }}
 		</a>
 	</h3>
+	<img src={{product.img}}>
 
-	<p *ngIf="product.description">
+	<p style="position:relative" *ngIf="product.description">
 		Description: {{ product.description }}
 	</p>
 
 	<button (click)="share()">
     Share
   </button>
+
+
 
 </div>
 
