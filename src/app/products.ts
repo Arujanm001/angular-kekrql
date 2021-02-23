@@ -27,7 +27,7 @@ export const products = [
     id: 4,
     img:
       "https://images-na.ssl-images-amazon.com/images/I/715VnC4na-L._AC_UL270_SR270,270_.jpg",
-    name: "Salt and Pepper Grinder ",
+    name: "Infuser Pitcher",
     price: 19.99,
     description:
       "The tightly sealed stainless steel lid also reduces moisture entering your salt or peppercorn & guarantees that no dust, residue or other unwanted particles and ensure a positive culinary cooking experience. Please Note Salt and Peppercorns not included"
@@ -75,9 +75,8 @@ export const products = [
   },
   {
     id: 10,
-    link:"https://www.amazon.com/M-MAX-Dinnerware-Durable-Ceramic-YUN-Blue-2/dp/B0888434YC/ref=sr_1_14_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Dinnerware+Sets&qid=1614112656&s=kitchen&sr=1-14-spons&ts_id=367146011&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSUNUV0NLR0lNTTJIJmVuY3J5cHRlZElkPUEwNDc2NTM2Mkg4WEdDMVBTQjJGRyZlbmNyeXB0ZWRBZElkPUEwNTA5NTUyMjEyRThZTklMM09LSSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
     img: "https://m.media-amazon.com/images/I/71zE7DHhWVL._AC_UL320_.jpg",
-    name: " Set Durable Ceramic Dinner Plate Sets, Plates, Bowls, Mugs, 8 Piece ",
+    name: " Durable Ceramic Dinner ",
     price: 21.2,
     description:
       "2 Piece 10.2 inch dinner plates, 2 Piece 8.27 inch dessert plates, 2 Piece soup/salad bowls, 2 Piece 400ml mugs . Whether you’re serving lunch, dinner, breakfast, this dinner sets will fit all your needs. It is elegant design adds a special visual characteristic to it. Each style has its own unique features. "
