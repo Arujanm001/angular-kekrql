@@ -11,7 +11,7 @@ export class ProductListComponent {
   products = products;
 
   share() {
-    let url='https://web.telegram.org/#/im?p=@yo_yo001';window.open(url,'_blank');
+    let url='https://web.telegram.org/#/im?p=@yo_yo001' ;window.open(url,'_blank');
     window.alert('The product has been shared!');
   }
 }

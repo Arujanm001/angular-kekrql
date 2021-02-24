@@ -2,6 +2,7 @@ export const products = [
   {
     id: 1,
     rate:'4.4 out of 5',
+    link:'https://www.amazon.com/Cuisinart-DBM-8-Supreme-Grind-Automatic/dp/B00018RRRK/ref=pd_rhf_se_p_img_15?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     img: "https://m.media-amazon.com/images/I/713VYm+wuGL._AC_UL320_.jpg",
     name: "Supreme Grind",
     price: '59.95 $',
