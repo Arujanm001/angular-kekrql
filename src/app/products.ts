@@ -11,6 +11,7 @@ export const products = [
   },
   {
     id: 2,
+    link:'https://www.amazon.com/Bormioli-Rocco-Hermetic-Pitcher-Homemade/dp/B0131EKHO0/ref=pd_rhf_se_p_img_14?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'4.4 out of 5',
     img: "https://m.media-amazon.com/images/I/71VG6NaOt9L._AC_UL320_.jpg",
     name: "Seal Glass Pitcher",
@@ -20,6 +21,7 @@ export const products = [
   },
   {
     id: 3,
+    link:'https://www.amazon.com/Grinder-Trofoty-Stainless-Adjustable-Ceramic/dp/B07WMRK653/ref=pd_rhf_se_p_img_13?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'4.3 out of 5',
     img: "https://m.media-amazon.com/images/I/711s1+VosEL._AC_UL320_.jpg",
     name: "Salt and Pepper Grinder ",
@@ -29,6 +31,7 @@ export const products = [
   },
   {
     id: 4,
+    link:'https://www.amazon.com/Takeya-Infusion-Blueberry-BPA-Free-Vegetable/dp/B00CYAIS0I/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=HVDA7S8QDHNT2XHEVY1E',
     rate:'4.7 out of 5',
     img:
       "https://images-na.ssl-images-amazon.com/images/I/715VnC4na-L._AC_UL270_SR270,270_.jpg",
@@ -39,6 +42,7 @@ export const products = [
   },
   {
     id: 5,
+    link:'https://www.amazon.com/Ceramic-Pitcher-Carafe-Painted-Bottle/dp/B08JGR4TVL/ref=pd_rhf_se_p_img_12?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'5 out of 5',
     img:
       "https://images-na.ssl-images-amazon.com/images/I/71AOZ3KqnEL._AC_UL270_SR270,270_.jpg",
@@ -49,6 +53,7 @@ export const products = [
   },
   {
     id: 6,
+    link:'https://www.amazon.com/Nicewell-Digital-Graduation-Stainless-Tempered/dp/B07S6F6LHQ/ref=pd_rhf_se_p_img_11?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'4.8 out of 5',
     img: "https://m.media-amazon.com/images/I/61-UI9xzQ+L._AC_UL320_.jpg",
     name: " Digital Kitchen Scale Weight ",
@@ -58,6 +63,7 @@ export const products = [
   },
   {
     id: 7,
+    link:'https://www.amazon.com/KitchenAid-KSMPEXTA-Gourmet-Attachment-Interchangeable/dp/B01ENK4UV2/ref=pd_rhf_se_p_img_10?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'4.6 out of 5',
     img: "https://m.media-amazon.com/images/I/71sSsrY7PUL._AC_UL320_.jpg",
     name: " Pasta Press ",
@@ -67,6 +73,7 @@ export const products = [
   },
   {
     id: 8,
+    link:'https://www.amazon.com/Godinger-Decanter-Carafe-Blown-Aerator/dp/B07VZXHSMD/ref=pd_rhf_se_p_img_9?_encoding=UTF8&psc=1&refRID=HTCFGN2RTV2GZZPEMYCB',
     rate:'4.7 out of 5',
     img: "https://m.media-amazon.com/images/I/71-wIBkLQDL._AC_UL320_.jpg",
     name: " Wine Decanter Carafe",
@@ -76,6 +83,7 @@ export const products = [
   },
   {
     id: 9,
+    link:'https://www.amazon.com/Storage-Kitchen-Airtight-Organization-Perfect/dp/B0893WYJ9K/ref=pd_di_sccai_7?pd_rd_w=0Gvv1&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=03K659FTQ3J3FEA48ATS&pd_rd_r=f13de3b4-85ca-4ab9-bfe9-ac7c22a36a14&pd_rd_wg=fEcRQ&pd_rd_i=B0893WYJ9K&psc=1',
     rate:'4.5 out of 5',
     img: "https://m.media-amazon.com/images/I/81NC9Lx5D4L._AC_UL320_.jpg",
     name: " Plastic Food Storage ",
@@ -85,6 +93,7 @@ export const products = [
   },
   {
     id: 10,
+    link:'https://www.amazon.com/M-MAX-Dinnerware-Durable-Ceramic-YUN-Blue-2/dp/B0888434YC/ref=sr_1_14_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Dinnerware+Sets&qid=1614112656&s=kitchen&sr=1-14-spons&ts_id=367146011&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSUNUV0NLR0lNTTJIJmVuY3J5cHRlZElkPUEwNDc2NTM2Mkg4WEdDMVBTQjJGRyZlbmNyeXB0ZWRBZElkPUEwNTA5NTUyMjEyRThZTklMM09LSSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=',
     rate:'4.5 out of 5',
     img: "https://m.media-amazon.com/images/I/71zE7DHhWVL._AC_UL320_.jpg",
     name: " Durable Ceramic Dinner ",
