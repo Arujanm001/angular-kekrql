@@ -9,8 +9,12 @@
   </h3>
 	<img src={{product.img}}>
 
-	<p style="position:relative" *ngIf="product.description">
+	<p  *ngIf="product.description">
 		Description: {{ product.description }}
+	</p>
+
+  <p  *ngIf="product.rate">
+		Rate: {{ product.rate }}
 	</p>
 
 	<button (click)="share()">

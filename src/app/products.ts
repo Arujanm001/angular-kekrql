@@ -1,6 +1,7 @@
 export const products = [
   {
     id: 1,
+    rate:'4.4 out of 5',
     img: "https://m.media-amazon.com/images/I/713VYm+wuGL._AC_UL320_.jpg",
     name: "Supreme Grind",
     price: 59.95,
@@ -9,6 +10,7 @@ export const products = [
   },
   {
     id: 2,
+    rate:'4.4 out of 5',
     img: "https://m.media-amazon.com/images/I/71VG6NaOt9L._AC_UL320_.jpg",
     name: "Seal Glass Pitcher",
     price: 16.99,
@@ -17,6 +19,7 @@ export const products = [
   },
   {
     id: 3,
+    rate:'4.3 out of 5',
     img: "https://m.media-amazon.com/images/I/711s1+VosEL._AC_UL320_.jpg",
     name: "Salt and Pepper Grinder ",
     price: 19.99,
@@ -25,6 +28,7 @@ export const products = [
   },
   {
     id: 4,
+    rate:'4.7 out of 5',
     img:
       "https://images-na.ssl-images-amazon.com/images/I/715VnC4na-L._AC_UL270_SR270,270_.jpg",
     name: "Infuser Pitcher",
@@ -34,6 +38,7 @@ export const products = [
   },
   {
     id: 5,
+    rate:'5 out of 5',
     img:
       "https://images-na.ssl-images-amazon.com/images/I/71AOZ3KqnEL._AC_UL270_SR270,270_.jpg",
     name: " Fox Ceramic Water Pitcher ",
@@ -43,6 +48,7 @@ export const products = [
   },
   {
     id: 6,
+    rate:'4.8 out of 5',
     img: "https://m.media-amazon.com/images/I/61-UI9xzQ+L._AC_UL320_.jpg",
     name: " Digital Kitchen Scale Weight ",
     price: 27.99,
@@ -51,6 +57,7 @@ export const products = [
   },
   {
     id: 7,
+    rate:'4.6 out of 5',
     img: "https://m.media-amazon.com/images/I/71sSsrY7PUL._AC_UL320_.jpg",
     name: " Pasta Press ",
     price: 179.0,
@@ -59,6 +66,7 @@ export const products = [
   },
   {
     id: 8,
+    rate:'4.7 out of 5',
     img: "https://m.media-amazon.com/images/I/71-wIBkLQDL._AC_UL320_.jpg",
     name: " Wine Decanter Carafe",
     price: 18.95,
@@ -67,6 +75,7 @@ export const products = [
   },
   {
     id: 9,
+    rate:'4.5 out of 5',
     img: "https://m.media-amazon.com/images/I/81NC9Lx5D4L._AC_UL320_.jpg",
     name: " Plastic Food Storage ",
     price: 21.2,
@@ -75,6 +84,7 @@ export const products = [
   },
   {
     id: 10,
+    rate:'4.5 out of 5',
     img: "https://m.media-amazon.com/images/I/71zE7DHhWVL._AC_UL320_.jpg",
     name: " Durable Ceramic Dinner ",
     price: 21.2,
