@@ -3,29 +3,29 @@
 <div class="item" *ngFor="let product of products">
 
 	<h3>
-    <a [title]="product.name + ' details'" [routerLink]="['/products', product.id]">
-      {{ product.name }}
-    </a>
-  </h3>
-	
-  <img src={{product.img}}>
+		<a [title]="product.name + ' details'" [routerLink]="['/products', product.id]">
+			{{ product.name }}
+		</a>
+	</h3>
 
-	<p  *ngIf="product.description">
+	<img src={{product.img}}>
+
+	<p *ngIf="product.description">
 		Description: {{ product.description }}
 	</p>
 
-  <p  *ngIf="product.rate">
+	<p *ngIf="product.rate">
 		Rate: {{ product.rate }}
 	</p>
 
-  <p  *ngIf="product.price">
+	<p *ngIf="product.price">
 		Price: {{ product.price }}
 	</p>
 
 	<a href="https://t.me/share/url?url={{product.link}}&text={{product.description}}"><button id="btn" (click)="share()">
     Share
   </button></a>
-  
+
 
 
 
